@@ -10,4 +10,8 @@ Note that all the .png's and positions are assuming your canvas size is 1280x720
 7) Make sure your game and camera are in the correct position and aren't being hidden by the layout .png.
 8) You're done!
 
+### Races
+The way races are going to be handaled is that the order of names in the schedule dictates your player number.  
+For example, if we have a race between Playful1510 and AlexisDR, Playful would be Player 1 and Alexis would be Player 2.
+
 If you're having difficulties or you need a special layout please contact nicnacnic#5683 on Discord.
